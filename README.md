@@ -1,0 +1,1 @@
+YOOOOOO! This repo will have a bunch of scripts that you can run from the command line. I guess I made this because I don’t want to keep on making repositories for basic scripts. You’ll find a readme for each script (if i'm not lazy). 
